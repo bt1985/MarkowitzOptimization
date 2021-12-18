@@ -1,0 +1,38 @@
+Country;Market;Suffix;Currency
+USA;Chicago Board of Trade (CBOT);.CBT;USD
+USA;Chicago Mercantile Exchange (CME);.CME;USD
+USA;Dow Jones-Indizes;;USD
+USA;Nasdaq Stock Exchange (NASDAQ);;USD
+USA;ICE Futures US;.NYB;USD
+USA;New York Commodities Exchange (COMEX);.CMX;USD
+USA;New York Mercantile Exchange (NYMEX);.NYM;USD
+USA;Options Price Reporting Authority (OPRA);;USD
+USA;OTC Bulletin Board (OTCBB);;USD
+USA;OTC Markets Group;;USD
+USA;S & P-Indizes;;USD
+Austria;Wiener Börse;.VI;EUR
+Belgia;Euronext Brüssel;.BR;EUR
+Estonia;NASDAQ OMX Tallinn;.TL;EUR
+Europe;Euronext;.NX;EUR
+Finland;Nasdaq OMX Helsinki;.HE;EUR
+France;Euronext Paris;.PA;EUR
+Germany;Börse Berlin;.BE;EUR
+Germany;Bremer Börse;.BM;EUR
+Germany;Börse Düsseldorf;.DU;EUR
+Germany;Frankfurter Wertpapierbörse;.F;EUR
+Germany;Hamburger Börse;.HM;EUR
+Germany;Hannover Börse;.HA;EUR
+Germany;Börse München;.MU;EUR
+Germany;Börse Stuttgart;.SG;EUR
+Germany;Deutsche Börse XETRA;.DE;EUR
+Greece;Börse Athen (ATHEX);.AT;EUR
+Ireland;Euronext Dublin;.IR;EUR
+Italy;EuroTLX;.TI;EUR
+Italy;Italian Stock Exchange;.MI;EUR
+Japan;Nikkei-Indizes;;USD
+Latvia;Nasdaq OMX Riga;.RG;EUR
+Lithuania;Nasdaq OMX Vilnius;.VS;EUR
+Netherlands;Euronext Amsterdam;.AS;EUR
+Portugal;Euronext Lissabon;.LS;EUR
+Spain;Madrid SE C.A.T.S.;.MC;EUR
+Great Britain;FTSE-Indizes;;USD
