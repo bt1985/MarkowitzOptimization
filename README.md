@@ -5,7 +5,7 @@ The user can choose from a given set of stocks (defined in the file collections.
 ![SelectPositions](/assets/SelectPositions.PNG)
 She can then edit the set of stocks. 
 ![EditPortfolioweights](/assets/EditPortfolioweights.PNG)
-The stock data will be collected from yahoo finance. The financial data from Yahoo for individual stocks is often messy, even for adjusted stock prices for individual stock positions. Splits or dividends are not always registered. 
+The stock data will be collected from yahoo finance. The financial data from Yahoo for individual stocks is often messy, even for adjusted stock prices for individual stock positions. Splits or dividends are not always registered. For detailed analysis the user can use the advanced settings to download more detailed data.
 ![advancedoptions_startcalculation](/assets/advancedoptions_startcalculation.PNG)
 The app  calculates then the efficent frontier as shown bellow. 
 ![EffFront](/assets/EffFront.png)
